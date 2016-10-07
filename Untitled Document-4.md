@@ -12,13 +12,20 @@ The mashup I chose titled "[*This is definetely not the 405*](https://www.youtub
 3. The nature of the remix is a song like the original songs that were used but it is not a song that is supposed to replicate the copyrighted songs. For example, if the remix pulled form another song and didnt really change the way it sounded or the structure at all this would not be considered fair use. Because the remix sounds nothing like any other songs it is unique enough to be considered one of a kind.
 4. Lastly, this song is not really going to have a major effect on the market that the other artists are in. Although this song may have become popular it would not take away from the popularity of the songs included in the remix because it is in a whole different genre of music. I also argue to say that they are two totally different markets altogether making it impossible for this remix to have an effect on the other songs. 
 
-#### Below is a table to lay out why in fact this remix falls under fair use:
+#### Below is a table to lay out what songs were used to make this remix and how they were used:
 
 
-| Purpose | --- | --- |
-| --- | --- | ---
-| Nature | --- | --- |
-| Portion | --- |
-| Effect on Market |
+| Songs Used | Beats | Lyrics |
+| --- | --- | --- | --- |
+| Def Leppard - Pour Some Sugar on Me | x |  |
+| Chingy - Right Thurr |  | x |
+| Pharoahe Monch - Simon Says |  | x |
+| Red Hot Chili Peppers - Can't Stop| x |  |
+| Slim Thug - Like a Boss |  | x |
+| Cypress Hill - Rap Superstar | x |  |
+| Yung Joc - It's Goin Down |  | x |
+| The Postal Service - Brand New Colony | x |  |
+|Shaggy - It Wasn't Me |  | x |
+
 
 
