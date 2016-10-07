@@ -3,7 +3,7 @@
 ## Composing Digital Media
 ![photo](https://i.ytimg.com/vi/9mYyrD3o5AA/hqdefault.jpg)
 
-The mashup I chose titled "[*This is definetely not the 405*](https://www.youtube.com/watch?v=9mYyrD3o5AA)" by [Super Mash Bros](https://soundcloud.com/super-mash-bros), is a remix that feautres clips and beats from 11 different songs. The reason why  Super Mash Bros were allowed to produce this remix and are allowed to keep producing more remixes along with many other artists is because their work is protected under **fair use** of copyrighted material.
+The mashup I chose titled "[*This is definetely not the 405*](https://www.youtube.com/watch?v=9mYyrD3o5AA)" by [Super Mash Bros](https://soundcloud.com/super-mash-bros), is a remix that feautres lyrics and beats from 11 different songs. The reason why Super Mash Bros were allowed to produce this remix and are allowed to keep producing more remixes along with many other artists is because their work is protected under **fair use** of copyrighted material.
 
 #### Fair Use for Super Mash Bros:
 
@@ -11,20 +11,21 @@ The mashup I chose titled "[*This is definetely not the 405*](https://www.youtub
 
 | Songs Used | Beats | Lyrics |
 | --- | --- | --- | --- |
-| Def Leppard - Pour Some Sugar on Me | x |  |
-| Chingy - Right Thurr |  | x |
-| Pharoahe Monch - Simon Says |  | x |
-| Red Hot Chili Peppers - Can't Stop| x |  |
-| Slim Thug - Like a Boss |  | x |
-| Slim Thug - Like a Boss |  | x |
-| Cypress Hill - Rap Superstar | x |  |
-| Yung Joc - It's Goin Down |  | x |
-| The Postal Service - Brand New Colony | x |  |
-|Shaggy - It Wasn't Me |  | x |
+| Def Leppard - *Pour Some Sugar on Me* | x |  |
+| Chingy - *Right Thurr* |  | x |
+| Pharoahe Monch - *Simon Says* |  | x |
+| Red Hot Chili Peppers - *Can't Stop* | x |  |
+| Slim Thug - *Like a Boss* |  | x |
+| Cypress Hill - *Rap Superstar* | x |  |
+| Yung Joc - *It's Goin Down* |  | x |
+| The Postal Service - *Brand New Colony* | x |  |
+|Shaggy - *It Wasn't Me* |  | x |
 
-2. Secondly, the purpose of this remix is not to steal fans or attention away from the other artists. Nor is it to create a profit for the artist who created the remix. Super Mash Bros put their music on a free sharing website called soundcloud. While they do get "hits" when people listen to their creations they do not get paid. Since the purpose of their remixes are for enjoyment, and not to create a profit it is considered fair use.
-3. The nature of the remix is a song like the original songs that were used but it is not a song that is supposed to replicate the copyrighted songs. For example, if the remix pulled form another song and didnt really change the way it sounded or the structure at all this would not be considered fair use. Because the remix sounds nothing like any other songs it is unique enough to be considered one of a kind.
-4. Lastly, this song is not really going to have a major effect on the market that the other artists are in. Although this song may have become popular it would not take away from the popularity of the songs included in the remix because it is in a whole different genre of music. I also argue to say that they are two totally different markets altogether making it impossible for this remix to have an effect on the other songs. 
+2. Secondly, the purpose of this remix is not to steal fans or attention away from the other artists. Nor is it to create a profit for the artist who created the remix. Super Mash Bros put their music on a free sharing website called soundcloud. While they do get "hits" when people listen to their creations they do not get paid. Since the purpose of their remixes are for enjoyment, and not to create a profit it is considered fair use. 
+
+3. The nature of this remix is a song like the original songs that were used but it is not a song that is supposed to replicate the copyrighted songs. For example, if the remix pulled form another song and didnt really change the way it sounded or the structure at all this would **not** be considered fair use. Because the remix sounds nothing like any other songs, it is unique enough to be considered one of a kind. As I mentioned before, the songs used to create this remix were not used in their original format. Some of the songs had the lyrics deleted and some of the clips had the background beats deleted and replaced with different sounds. This process makes this remix an entirely unique song.
+
+4. Lastly, this song is not really going to have a major effect on the market that the other artists are in. Although this song may have become popular it would not take away from the popularity of the songs included in the remix because it is in a whole different genre of music. I believe remixes like this can actually increase the popularity of the songs and artists that it features. For instane,if someone hears this song and has never heard "*It's Goin Down*" they may be inclined to buy the song after hearign a short preview from this remix. I also argue that they are two totally different markets altogether making it impossible for this remix to have an effect on the other songs. This remix is in a diferent genera then the songs used.
 
 
 
